@@ -5,7 +5,7 @@
 # ACT-Net: Asymmetric Co-Teacher Network for Semi-supervised Memory-efficient Medical Image Segmentation
 
 [![MICCAI2022](https://img.shields.io/badge/arXiv-2207.01900-blue)](https://arxiv.org/abs/2207.01900)
-[![MICCAI2022](https://img.shields.io/badge/Conference-ICIP2022-green)](https://ieeexplore.ieee.org/document/9919170)
+[![MICCAI2022](https://img.shields.io/badge/Conference-ICIP2022-green)](https://ieeexplore.ieee.org/document/9897494)
 
 
 
